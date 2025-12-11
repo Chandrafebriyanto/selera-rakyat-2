@@ -130,6 +130,7 @@ Gunakan akun berikut untuk mencoba aplikasi:
 * Password: user
 
 ### 📂 Struktur Proyek
+```php
 selera-rakyat/
 ├── admin/              # File-file halaman Admin (backend)
 ├── assets/             
@@ -145,3 +146,4 @@ selera-rakyat/
 ├── login.php           # Halaman Login
 ├── daftar.php          # Halaman Registrasi
 └── ...                 # File pendukung lainnya
+```
